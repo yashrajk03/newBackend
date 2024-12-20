@@ -1,0 +1,18 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "our first app .trying to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "yash",
+    "chai"
+  ],
+  "author": "yashraj",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
